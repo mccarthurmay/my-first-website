@@ -1,2 +1,2 @@
 # my-first-website
-# Creating my first website through the Odin Project.
+Creating my first website through the Odin Project.
